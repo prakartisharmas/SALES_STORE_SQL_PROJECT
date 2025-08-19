@@ -6,17 +6,20 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 ## Business Problems
 
-1. What are the top 5 selling products by QWERTY? 
+1. What are the top 5 selling products by Quality? 
+--Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.
 
 2. Which products are the most frequently cancelled?
+--Business problem - frequently cancelled ,affect revenue and break customer trust. so that we can identify poor performing of the product.
 
 3. What time of the day has the greatest number of purchases?
+
 
 4. Who are the top 5 spending customers?
 
 5. Which product category generates the highest revenue?
 
-6. What is the return and cancellation rate per product category?
+6. What is the return / cancellation rate per product category?
 
 7. What is the most preferred payment mode?
 
