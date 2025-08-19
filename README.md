@@ -29,11 +29,11 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 ## Repository Contents
 
-+SQL scripts for each business problem
+* SQL scripts for each business problem
 
-+Data visualizations (charts and graphs)
+* Data visualizations (charts and graphs)
 
-+Documentation of questions and analysis approach
+* Documentation of questions and analysis approach
 
 
 This project provides a structured framework to examine sales data, highlighting core business challenges that organizations face in understanding products, customers, and overall market behavior.
