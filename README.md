@@ -1,4 +1,4 @@
-## SALES_STORE_SQL_PROJECT
+## 📌 SALES_STORE_SQL_PROJECT
 
 <img width="1536" height="1024" alt="Snapshot" src="https://github.com/user-attachments/assets/c250cebc-9f11-420a-9a9a-394adef749b8" />
 
@@ -11,7 +11,6 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 1. What are the top 5 selling products by Quality?
 - Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.
-
 
 2. Which products are the most frequently cancelled?
 - Business problem - Frequently cancelled ,affect revenue and break customer trust. So that, we can identify poor performing of the product.
