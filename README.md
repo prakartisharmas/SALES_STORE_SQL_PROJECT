@@ -3,7 +3,7 @@
 <img width="1536" height="1024" alt="Snapshot" src="https://github.com/user-attachments/assets/c250cebc-9f11-420a-9a9a-394adef749b8" />
 
 
-## Store Background
+## 🌍Store Background
 
 The Sales Store is a retail business dealing in diverse products across multiple locations, serving customers worldwide, aiming to analyze sales, customer behavior, and store performance for strategic growth.
 
@@ -51,6 +51,6 @@ This project answers the following 10 questions using SQL queries:
 - **Business Problem** - Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
 
 
-## Conclusion
+## 🏬 Conclusion
 
 The SALES_STORE_SQL_PROJECT showcases how SQL transforms raw sales data into actionable insights, helping businesses optimize revenue, track customer behavior, identify top products, and improve decision-making through data-driven strategies.
