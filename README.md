@@ -16,7 +16,7 @@ The Sales Store is a retail business dealing in diverse products across multiple
 - **Window Functions**:  Running totals, rankings, moving averages
 - **Joins & CTEs**:  For advanced queries
 
-## Table Structure 
+## 📊Table Structure 
 
 | 🗂 Table Name    | 📌 Description                                                                                                    |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
