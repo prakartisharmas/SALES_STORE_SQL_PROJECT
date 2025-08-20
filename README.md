@@ -60,6 +60,6 @@ This project answers the following 10 questions using SQL queries:
 - **Business Problem** - Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
 
 
-## 🏬 Conclusion
+## 🏆 Conclusion
 
 The SALES_STORE_SQL_PROJECT showcases how SQL transforms raw sales data into actionable insights, helping businesses optimize revenue, track customer behavior, identify top products, and improve decision-making through data-driven strategies.
