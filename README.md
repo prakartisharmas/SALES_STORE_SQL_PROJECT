@@ -17,7 +17,7 @@ A retail store chain tracks daily sales transactions, including order details, c
 - **Joins & CTEs**:  For advanced queries
   
 
-## Questions Solved:
+## 🎯 Questions Solved:
 This project answers the following 10 questions using SQL queries:
 
 1. What are the top 5 selling products by Quality?
