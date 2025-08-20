@@ -7,7 +7,18 @@
 
 A retail store chain tracks daily sales transactions, including order details, customer info, product categories, order times, and order status. The business wants to optimize operations, improve customer experience, and increase profitability using data-driven decisions.
 
-## Business Problems
+
+## 🔹 Features of the Project
+
+- **Database Creation**:  Build schema & relationships
+- **Data Insertion**:  Add sample data for testing
+- **Analysis Queries**:  Revenue, profit, top products, sales trends
+- **Window Functions**:  Running totals, rankings, moving averages
+- **Joins & CTEs**:  For advanced queries
+  
+
+## Questions Solved
+This project answers the following 10 questions using SQL queries:
 
 1. What are the top 5 selling products by Quality?
 - Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.
@@ -38,15 +49,6 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 10. Are certain genders buying more specific product categories?
 - Business Problem- Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
-
-
-## 🔹 Features of the Project
-
-- **Database Creation**:  Build schema & relationships
-- **Data Insertion**:  Add sample data for testing
-- **Analysis Queries**:  Revenue, profit, top products, sales trends
-- **Window Functions**:  Running totals, rankings, moving averages
-- **Joins & CTEs**:  For advanced queries
 
 
 ## Repository Contents
