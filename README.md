@@ -29,7 +29,7 @@ The Sales Store is a retail business dealing in diverse products across multiple
 ## 🎯 Questions Solved:
 This project answers the following 10 questions using SQL queries:
 
-1. What are the top 5 selling products by Quality?//  
+1. What are the top 5 selling products by Quality?  
 <sub>Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.</sub>
 
 2. Which products are the most frequently cancelled?
