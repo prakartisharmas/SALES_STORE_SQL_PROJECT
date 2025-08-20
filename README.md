@@ -63,11 +63,8 @@ This project answers the following 10 questions using SQL queries:
 Here are some key insights for SALES STORE SQL PROJECT :
 
 - Identify top-selling products driving revenue.
-
 - Analyze sales trends across months and seasons.
-
 - Compare performance of different stores.
-
 - Recognize loyal customers contributing maximum sales.
 
 
