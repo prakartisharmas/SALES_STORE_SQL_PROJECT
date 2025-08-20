@@ -59,6 +59,17 @@ This project answers the following 10 questions using SQL queries:
 10. Are certain genders buying more specific product categories?
 - **Business Problem** - Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
 
+## Key Insights:
+Here are some key insights for SALES STORE SQL PROJECT :
+
+- Identify top-selling products driving revenue.
+
+- Analyze sales trends across months and seasons.
+
+- Compare performance of different stores.
+
+- Recognize loyal customers contributing maximum sales.
+
 
 ## 🏆 Conclusion
 
