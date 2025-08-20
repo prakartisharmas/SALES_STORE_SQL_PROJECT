@@ -15,7 +15,16 @@ The Sales Store is a retail business dealing in diverse products across multiple
 - **Analysis Queries**:  Revenue, profit, top products, sales trends
 - **Window Functions**:  Running totals, rankings, moving averages
 - **Joins & CTEs**:  For advanced queries
-  
+
+## Table Structure 
+
+| 🗂 Table Name    | 📌 Description                                                                                                    |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 👥 **Customers** | Stores customer details like ID, name, email, city, and country.                                                  |
+| 📦 **Products**  | Contains product information: product\_id, product\_name, category, unit\_price, cost\_price.                     |
+| 🏬 **Stores**    | Records store\_id, store\_name, city, state, and country for each store.                                          |
+| 💰 **Sales**     | Captures sales transactions: sale\_id, sale\_date, customer\_id, store\_id, product\_id, quantity, total\_amount. |
+
 
 ## 🎯 Questions Solved:
 This project answers the following 10 questions using SQL queries:
