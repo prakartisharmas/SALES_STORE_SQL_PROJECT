@@ -1,5 +1,8 @@
 ## SALES_STORE_SQL_PROJECT
 
+<img width="1536" height="1024" alt="Snapshot" src="https://github.com/user-attachments/assets/c250cebc-9f11-420a-9a9a-394adef749b8" />
+
+
 ## Store Background
 
 A retail store chain tracks daily sales transactions, including order details, customer info, product categories, order times, and order status. The business wants to optimize operations, improve customer experience, and increase profitability using data-driven decisions.
