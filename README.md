@@ -13,24 +13,40 @@ A retail store chain tracks daily sales transactions, including order details, c
 --Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.
 
 2. Which products are the most frequently cancelled?//  
---Business problem - frequently cancelled ,affect revenue and break customer trust. so that we can identify poor performing of the product.
+--Business problem - Frequently cancelled ,affect revenue and break customer trust. So that, we can identify poor performing of the product.
 
-3. What time of the day has the greatest number of purchases?
+3. What time of the day has the greatest number of purchases?//  
+--Bussiness problem - Find peak sales time. So that, we optimize our staff, promotions, and server loads.
 
-
-4. Who are the top 5 spending customers?
+4. Who are the top 5 spending customers?//  
+--Bussiness problem- Identify VIP customers. So that, We can offer them loyality rewards and extra concern.
 
 5. Which product category generates the highest revenue?
+-- Business problem- Identify top_performing product categorty. So that, we can analyse high demand category.
 
 6. What is the return / cancellation rate per product category?
+-- Business Problem- Reduce returns, improve product description/expectations. It helps to identify and fix product or logistic issues.
 
 7. What is the most preferred payment mode?
+-- Business problem- To Know which payment option customer prefer.
 
 8. How does age group affect purchasing behavior?
+-- Business problem - To understand customer demographics and targeted marketing product recommendations by the age group.
 
 9. What is the monthly sales trend?
+--Business Problem- Sales fluctuations go unnoticed. So that, we plan marketing according to seasonal trends.
 
 10. Are certain genders buying more specific product categories?
+--Business Problem- Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
+
+
+🔹 Features of the Project
+
+✅ Database Creation: Build schema & relationships
+✅ Data Insertion: Add sample data for testing
+✅ Analysis Queries: Revenue, profit, top products, sales trends
+✅ Window Functions: Running totals, rankings, moving averages
+✅ Joins & CTEs: For advanced queries
 
 
 ## Repository Contents
