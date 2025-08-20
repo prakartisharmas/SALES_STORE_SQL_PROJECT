@@ -30,34 +30,34 @@ The Sales Store is a retail business dealing in diverse products across multiple
 This project answers the following 10 questions using SQL queries:
 
 1. What are the top 5 selling products by Quality?
-- <sub>**Business problem** - So that, we will able to know which product is in demand and we can manage our stocks accordingly.</sub>
+<sub>Business problem - So that, we will able to know which product is in demand and we can manage our stocks accordingly.</sub>
 
 2. Which products are the most frequently cancelled?
-- **Business problem** - Frequently cancelled ,affect revenue and break customer trust. So that, we can identify poor performing of the product.
+<sub>Business problem - Frequently cancelled ,affect revenue and break customer trust. So that, we can identify poor performing of the product.</sub>
 
 3. What time of the day has the greatest number of purchases?
-- **Bussiness problem** - Find peak sales time. So that, we optimize our staff, promotions, and server loads.
+<sub>Bussiness problem - Find peak sales time. So that, we optimize our staff, promotions, and server loads.</sub>
 
 4. Who are the top 5 spending customers?
-- **Bussiness problem** - Identify VIP customers. So that, We can offer them loyality rewards and extra concern.
+<sub>Bussiness problem - Identify VIP customers. So that, We can offer them loyality rewards and extra concern.</sub>
 
 5. Which product category generates the highest revenue?
-- **Business problem** - Identify top_performing product categorty. So that, we can analyse high demand category.
+<sub>Business problem - Identify top_performing product categorty. So that, we can analyse high demand category.</sub>
 
 6. What is the return / cancellation rate per product category?
-- **Business Problem** - Reduce returns, improve product description/expectations. It helps to identify and fix product or logistic issues.
+<sub>Business Problem - Reduce returns, improve product description/expectations. It helps to identify and fix product or logistic issues.</sub>
 
 7. What is the most preferred payment mode?
-- **Business problem** - To Know which payment option customer prefer.
+<sub>Business problem - To Know which payment option customer prefer.</sub>
 
 8. How does age group affect purchasing behavior?
-- **Business problem** - To understand customer demographics and targeted marketing product recommendations by the age group.
+<sub>Business problem - To understand customer demographics and targeted marketing product recommendations by the age group.</sub>
 
 9. What is the monthly sales trend?
-- **Business Problem** - Sales fluctuations go unnoticed. So that, we plan marketing according to seasonal trends.
+<sub>Business Problem - Sales fluctuations go unnoticed. So that, we plan marketing according to seasonal trends.</sub>
 
 10. Are certain genders buying more specific product categories?
-- **Business Problem** - Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.
+<sub>Business Problem - Gender based product prefrences. So that, we can provide personalized ads, gender focused campaigns.</sub>
 
 ## 💡Key Insights:
 Here are some key insights for SALES STORE SQL PROJECT :
