@@ -1,4 +1,5 @@
 ## 📌 SALES_STORE_SQL_PROJECT
+This repository contains a comprehensive End-to-End SQL Project on sales store data. The project focuses on exploring, cleaning, and analyzing sales transactions to gain meaningful business insights.
 
 <img width="1536" height="1024" alt="Snapshot" src="https://github.com/user-attachments/assets/c250cebc-9f11-420a-9a9a-394adef749b8" />
 
