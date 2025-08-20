@@ -70,4 +70,4 @@ Here are some key insights for SALES STORE SQL PROJECT :
 
 ## 🏆 Conclusion
 
-The SALES_STORE_SQL_PROJECT showcases how SQL transforms raw sales data into actionable insights, helping businesses optimize revenue, track customer behavior, identify top products, and improve decision-making through data-driven strategies.
+The SALES STORE SQL PROJECT showcases how SQL transforms raw sales data into actionable insights, helping businesses optimize revenue, track customer behavior, identify top products, and improve decision-making through data-driven strategies.
