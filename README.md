@@ -1,4 +1,4 @@
-# SALES_STORE_SQL_PROJECT
+📌 ## SALES_STORE_SQL_PROJECT
 
 ## Store Background
 
