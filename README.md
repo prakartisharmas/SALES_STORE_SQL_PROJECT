@@ -42,10 +42,10 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 ## 🔹 Features of the Project
 
-✅ Database Creation:  Build schema & relationships//  
-✅ Data Insertion:  Add sample data for testing//  
-✅ Analysis Queries:  Revenue, profit, top products, sales trends//  
-✅ Window Functions:  Running totals, rankings, moving averages//  
+✅ Database Creation:  Build schema & relationships
+✅ Data Insertion:  Add sample data for testing
+✅ Analysis Queries:  Revenue, profit, top products, sales trends
+✅ Window Functions:  Running totals, rankings, moving averages
 ✅ Joins & CTEs:  For advanced queries
 
 
